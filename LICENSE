@@ -1,0 +1,58 @@
+GNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+Copyright (C) 2025 Flume Contributors
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+
+---
+
+Acknowledgments
+===============
+
+This project, Flume, incorporates and builds upon:
+- **Flume Core**, originally licensed under the Business Source License 1.1 (BUSL 1.1) by Spacing Guild GmbH. As of January 1, 2025, Flume Core is licensed under the GNU General Public License, Version 2.0 or later.
+
+- **Astrolab DAO Strategies**, originally licensed under the Business Source License 1.1 (BUSL 1.1) by Astrolabs Ltd. As of December 31, 2025, Astrolab DAO Strategies is licensed under the GNU General Public License, Version 2.0 or later.
+
+Flume derives portions of its functionality from Flume Core and Astrolab DAO Strategies, and as such, this project is distributed under the GNU General Public License, Version 2.0 or later. Any modifications or derivatives of this project must comply with the terms of the GNU GPL.
+
+---
+
+Licensing Details
+=================
+
+1. **License Terms:**
+   - Flume is licensed under the GNU General Public License, Version 2.0 or later.
+   - See [`GPL-2.0.md`](./GPL-2.0.md) for more details.
+
+2. **Attribution to Flume Core:**
+   - Portions of Flume are based on or derived from Flume Core.
+   - The original work is (c) 2022 Spacing Guild GmbH.
+   - See https://v2-core-license-grants.arrakis.eth for more details.
+
+3. **Attribution to Astrolab DAO Strategis:**
+   - Portions of Flume are based on or derived from Astrolab Strategies.
+   - The original work is (c) 2023 Astrolabs Ltd.
+   - See https://github.com/AstrolabDAO/strats/blob/main/LICENCE for more details.
+
+4. **No Additional Restrictions:**
+   - This license does not impose any additional restrictions beyond those specified in the GNU General Public License, Version 2.0 or later.
+
+---
+
+Disclaimer
+==========
+
+THIS PROGRAM IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.
+
+---
+
+Contact Information
+===================
+
+For questions or further details about this license or the project, please contact [contact@flume.fi].
