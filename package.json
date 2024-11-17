@@ -81,12 +81,14 @@
     "url": "git+ssh://git@github.com/FlumeDAO/contracts"
   },
   "keywords": [
-    "arrakis",
-    "uniswap",
-    "v3",
-    "market",
-    "making",
+    "flume",
+    "uniswap v3",
+    "uniswap v4",
+    "algebra",
+    "market making",
     "AMM",
+    "liquidity management",
+    "ALM",
     "solidity",
     "0.8"
   ],
@@ -94,5 +96,5 @@
   "bugs": {
     "url": "https://github.com/FlumeDAO/contracts/issues"
   },
-  "homepage": "https://github.com/FlumeDAO/v2-core#readme"
+  "homepage": "https://github.com/FlumeDAO/contracts#readme"
 }
